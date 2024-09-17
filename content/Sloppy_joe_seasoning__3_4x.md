@@ -1,5 +1,5 @@
 ---
-title: Sloppy joe seasoning: 3-4x
+title: Sloppy joe seasoning 3-4x
 tags: needs-attention
 link: 
 ---
