@@ -1,0 +1,10 @@
+baseURL: 'http://example.org/'
+languageCode: 'en-us'
+title: 'Recipes'
+
+taxonomies:
+  tag: tags
+
+params:
+  # used by layouts/_default/baseof.html
+  style_css: "css/style.css"

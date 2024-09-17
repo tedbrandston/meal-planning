@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- Allows for certain kinds of responsive css. -->
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <title>{{ .Title }}</title>  
+
+  {{ with .Site.Params.style_css -}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+  {{- end }}
+
+  {{ with .Params }}
+    <meta name="description" content="{{ .Description }}">
+    {{ if .Tags }}
+      <meta name="keywords" content="{{ .Tags }}">
+    {{ end }}
+    {{ if .Link }}
+      <link rel="canonical" href="{{ .Link }}">
+    {{ end }}
+  {{ end }}
+</head>
+<body>
+  {{ block "main" . }}{{ end }}
+</body>
+</html>
