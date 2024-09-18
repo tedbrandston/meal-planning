@@ -8,6 +8,7 @@ html {
 
 body {
   text-rendering: optimizeLegibility;
+  font-size: x-large;
 }
 
 .top-nav {
@@ -24,7 +25,7 @@ body {
 
 .nav-link {
   color: white;
-  font-size: large;
+  font-size: x-large;
 }
 
 .header {
@@ -66,46 +67,6 @@ body {
   text-decoration: underline;
 }
 
-.smaller-text {
-  font-size: smaller;
-}
-
-.flex-page {
-  display: flex;
-  min-height: 100vh;
-  margin: 0;
-  flex-direction: column;
-  justify-content: flex-start;
-}
-
-.flex-row {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  flex-wrap: wrap;
-}
-
-.flex-row-item {
-  /* Cap line length, but also don't let it get foolishly short. */
-  max-width: 40em;
-  min-width: 15em;
-
-  margin: 1em;
-}
-
-.flex-row-2-item {
-  /* Two item row. Use less than 50% to avoid wrapping when combined with a margin, */
-  /* and grow to fill the gap. */
-  flex-basis: 40%;
-  flex-grow: 1;
-}
-
-.flex-row-unlimited-item {
-  /* Aim for 3 per row */
-  flex-basis: 30%;
-  flex-grow: 1;
-}
-
 .list-item {
   margin: 1em;
 }
@@ -113,12 +74,6 @@ body {
 .indexed-item-col {
   font-weight: bold;
   min-width: 3em;
-}
-
-.centered-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .post-link {
@@ -129,32 +84,14 @@ body {
 .more {
   color: black;
   font-style: italic;
+  font-size: smaller;
+}
+
+.direct-link {
+  font-size: small;
 }
 
 .meta {
   font-style: italic;
-  font-size: x-small;
-}
-
-.basic-button {
-  background-color: black;
-  color: white;
-
-  font-size: medium;
-
-  /* Rounded ends */
-  border-radius: 1em;
-  padding-left: 1em;
-  padding-right: 1em;
-
-  margin: 1em;
-}
-
-#partial-comment-formholder {
-  width: 90%;
-  height: 0px;
-
-  transition-property: height;
-  transition-duration: 1s;
-  transition-timing-function: ease-out;
+  font-size: smaller;
 }

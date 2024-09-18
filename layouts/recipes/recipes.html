@@ -2,10 +2,14 @@
   {{ range .Pages }}
   <div class="list-item">
     <a href="{{ .Permalink }}" class="post-link">{{ .Title }} </a>
+    {{ if .Params.link }}
+      <a href="{{ .Permalink }}" class="direct-link">[direct link]</a>
+    {{ end }}
     <div>
-      {{ .Params.subtitle }}
+      {{ range .Params.tags }}
+        <a href="/tags#{{.}}" class="more">{{.}}</a>
+      {{ end }}
     </div>
-    <a href="{{ .Permalink }}" class="more">more...</a>
   </div>
   {{ end }}
 {{- end -}}
