@@ -1,6 +1,6 @@
 ---
 title: Whole Wheat Sourdough Bread
-tags: needs-attention
+tags: [needs-attention]
 link: 
 ---
 Version 4  

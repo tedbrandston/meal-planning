@@ -1,6 +1,6 @@
 ---
 title: Cinnamon Raisin
-tags: needs-attention
+tags: [needs-attention]
 link: 
 ---
 [https://recipes.sparkpeople.com/recipe-detail.asp?recipe=2083722](https://recipes.sparkpeople.com/recipe-detail.asp?recipe=2083722)  

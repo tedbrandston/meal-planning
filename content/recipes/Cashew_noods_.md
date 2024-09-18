@@ -1,6 +1,6 @@
 ---
 title: Cashew noods?
-tags: needs-attention
+tags: [needs-attention]
 link: 
 ---
 1 cup tahini  

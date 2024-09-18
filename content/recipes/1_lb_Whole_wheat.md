@@ -1,6 +1,6 @@
 ---
 title: 1 lb Whole wheat
-tags: needs-attention, bread machine
+tags: [needs-attention, bread machine]
 link: https://docs.google.com/document/d/12gyt1qZf-SHYARI2zVWzD3UocxCgWGLXRQO1ZqLbmMM/edit?usp=sharing
 ---
 

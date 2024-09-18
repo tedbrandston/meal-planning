@@ -1,6 +1,6 @@
 ---
 title: Pumpkin pie
-tags: needs-attention
+tags: [needs-attention]
 link: 
 ---
 2 C pumpkin, canned or cooked \- see directions  

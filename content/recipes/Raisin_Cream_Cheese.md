@@ -1,6 +1,6 @@
 ---
 title: Raisin Cream Cheese
-tags: needs-attention, school-lunch, snack
+tags: [needs-attention, school-lunch, snack]
 link: 
 ---
 ½ lb cream cheese  

@@ -1,6 +1,6 @@
 ---
 title: Hummus
-tags: needs-attention, Mediterranean, chickpeas
+tags: [needs-attention, Mediterranean, chickpeas]
 link: https://cookieandkate.com/best-hummus-recipe/#tasty-recipes-28742
 ---
 Pretty good hummus with variants  

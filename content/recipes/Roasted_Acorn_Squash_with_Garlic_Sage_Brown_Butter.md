@@ -1,6 +1,6 @@
 ---
 title: Roasted Acorn Squash with Garlic-Sage Brown Butter
-tags: needs-attention, quick, squash, sage
+tags: [needs-attention, quick, squash, sage]
 link: https://jessicaseinfeld.com/recipes/roasted-acorn-squash-with-garlic-sage-brown-butter
 ---
 Notes: Doubled the red pepper and it was perfect for us.  

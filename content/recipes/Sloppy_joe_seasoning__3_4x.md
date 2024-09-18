@@ -1,6 +1,6 @@
 ---
 title: Sloppy joe seasoning 3-4x
-tags: needs-attention
+tags: [needs-attention]
 link: 
 ---
 	1 tbsp dried onion  

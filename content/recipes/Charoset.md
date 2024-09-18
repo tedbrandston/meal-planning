@@ -1,6 +1,6 @@
 ---
 title: Charoset
-tags: needs-attention
+tags: [needs-attention]
 link: 
 ---
 4 tart apples  

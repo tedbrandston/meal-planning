@@ -1,6 +1,6 @@
 ---
 title: Whole Wheat Sourdough Pita
-tags: needs-attention
+tags: [needs-attention]
 link: 
 ---
 
