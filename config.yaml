@@ -1,4 +1,4 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://ted.brandston.net/meal-planning'
 languageCode: 'en-us'
 title: 'Recipes'
 
@@ -7,4 +7,4 @@ taxonomies:
 
 params:
   # used by layouts/_default/baseof.html
-  style_css: "meal-planning/css/style.css"
+  style_css: "css/style.css"
