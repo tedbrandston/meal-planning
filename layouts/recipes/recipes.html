@@ -7,7 +7,7 @@
     {{ end }}
     <div>
       {{ range .Params.tags }}
-        <a href="/tags#{{.}}" class="more">{{.}}</a>
+        <a href="{{ relURL "tags"}}#{{.}}" class="more">{{.}}</a>
       {{ end }}
     </div>
   </div>

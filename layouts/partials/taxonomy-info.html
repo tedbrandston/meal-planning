@@ -2,7 +2,7 @@
   {{ with .Params.tags }}
     Tags:
     {{ range . }}
-      <a href="/tags/index.html#{{- . -}}">{{ . }}</a>
+      <a href="{{ relURL "tags/index.html" }}#{{.}}">{{ . }}</a>
     {{ end }}
   {{ end }}
   {{ with .Params.ingredients }}
