@@ -1,7 +1,7 @@
 ---
 title: Arugula Gremolata
-tags: [needs-attention, to-try, arugula, garlic, zest, (optionally pasta p7)]
+tags: [to-try, arugula, garlic, zest, pasta, dinner]
 link: 
 ---
-Notes: Veggies I can't live without (p6)
+Notes: Veggies I can't live without (p6), says it goes well with pasta (p7)
 
