@@ -1,11 +1,6 @@
 ---
 title: 10-Minute Broccoli Tofu Bowls
-tags: [needs-attention, quick, broccoli, tofu]
-link: https://thewoksoflife.com/broccoli-tofu-bowls/
+tags: [quick, broccoli, tofu, veggie-main, dinner, chinese, woks-of-life]
+link: https://thewoksoflife.com/broccoli-tofu-bowls/#recipe
 ---
-Notes: Could use ginger  
-
-[https://thewoksoflife.com/teriyaki-tofu/](https://thewoksoflife.com/teriyaki-tofu/)  
-Tags: tofu,   
-Notes: usually add broccoli
-
+Notes: Could use ginger
