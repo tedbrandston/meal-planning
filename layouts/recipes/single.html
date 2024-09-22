@@ -1,0 +1,6 @@
+{{- define "main" -}}
+  <a href="{{ .Params.link }}">{{ .Params.link }}</a>
+  {{ if .Params.cooked_link }}
+    <a href="{{ .Params.cooked_link }}">simplified</a>
+  {{ end }}
+{{ end }}

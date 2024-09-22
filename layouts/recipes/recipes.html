@@ -5,6 +5,9 @@
     {{ if .Params.link }}
       <a href="{{ .Params.link }}" class="direct-link">[direct link]</a>
     {{ end }}
+    {{ if .Params.cooked_link }}
+      <a class="direct-link" href="{{ .Params.cooked_link }}">[simplified link]</a>
+    {{ end }}
     <div>
       {{ range .Params.tags }}
         <a href="{{ relURL "tags"}}#{{.}}" class="more">{{.}}</a>
