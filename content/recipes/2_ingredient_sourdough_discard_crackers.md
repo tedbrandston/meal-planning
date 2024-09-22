@@ -1,6 +1,7 @@
 ---
-title: 2 ingredient sourdough discard crackers
-tags: [needs-attention]
-link: https://cooked.wiki/new/recent/259d9e82-14b9-4c6b-bcfc-8aacc6cddc6f
+title: 2 Ingredient Sourdough Discard Crackers
+tags: [sourdough, sourdough-discard, cracker]
+cooked_link: https://cooked.wiki/saved/e39b6a95-5ceb-45f6-b047-3e7681ab64f6
+link: https://www.pantrymama.com/2-ingredient-sourdough-discard-crackers/
 ---
 
