@@ -1,6 +1,6 @@
 ---
 title: Soy Butter Glazed King Mushrooms
-tags: [needs-attention]
+tags: [needs-attention, woks-of-life]
 link: https://thewoksoflife.com/soy-butter-glazed-king-oyster-mushrooms/#recipe
 ---
 Notes: phenomenal. So tasty, and so easy. Need to try this glaze on other things, seems to work on eggplant, too.  
