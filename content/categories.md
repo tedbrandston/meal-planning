@@ -8,7 +8,7 @@ To help add structure and encourage us to eat a diversity of stuff, we've come u
 * [Pasta](../tags#pasta)
 * [Veggie main](../tags#veggie-main) (roughly twice a cycle)
 * [Pizza](../tags#pizza)
-* [Stew](../tags#stew) (roughly twice a cycle)
+* [Stew](../tags#stew) (roughly twice a cycle), with a [starchy-side](../tags#starchy-side)
 * [Kiddos choice](../tags#kiddos-choice)
 * [Build-your-own](../tags#build-your-own)
 * Bread and cheese night
@@ -20,3 +20,10 @@ We also can break it down by seasonality, though we don't have a good way to sel
 * [Summer](../tags#summer)
 * [Fall](../tags#fall)
 * [Winter](../tags#winter)
+
+When tagging, think:
+* Meal? (lunch/dinner)
+* Main or side?
+* Category?
+* Season?
+* Main ingredient?
