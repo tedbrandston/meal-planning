@@ -1,6 +1,6 @@
 ---
 title: Vegetarian Hot & Sour Soup
-tags: [needs-attention, to-try, woks-of-life]
+tags: [to-try, woks-of-life, soup, dinner, winter, fall]
 link: https://thewoksoflife.com/wprm_print/vegetarian-hot-sour-soup/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Raisin Cream Cheese
-tags: [needs-attention, school-lunch, snack]
+tags: [school-lunch, snack, cream-cheese]
 link: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Mushroom Larb
-tags: [needs-attention, to-try, woks-of-life]
-link: https://thewoksoflife.com/mushroom-larb/#recipe
+tags: [to-try, woks-of-life, side, veggie-side, mushroom, dinner]
+link: https://thewoksoflife.com/wprm_print/mushroom-larb/
 ---
 
