@@ -31,7 +31,7 @@ When nice	Cut in half, tighten/shape, roll in seeds, put in pullman
 Notes:  
 [Sourdough Baking Worksheet 2024-08-26](https://docs.google.com/document/d/1Wake7MkUkYQouqALYdY_MA9mG-n3BoH-Wd1gZu0-LXo/edit)  
 [Sourdough Baking Worksheet 2024-08-31](https://docs.google.com/document/d/1mFw7wR1yxPDoVoXU4qRgbH4BRnyALKC_w-_5b6w8wAc/edit)  
-[Sourdough Baking Worksheet 2024-09-06](https://docs.google.com/document/d/1t2MeRyD6LHo9VOI-68qZ2YykLNEHPhdqTUtNEW_aUjA/edit)
+[Sourdough Baking Worksheet 2024-09-06](https://docs.google.com/document/d/1t2MeRyD6LHo9VOI-68qZ2YykLNEHPhdqTUtNEW_aUjA/edit)  
 [Sourdough Baking Worksheet 2024-09-18](https://docs.google.com/document/d/1SVe21uZ4d-Yl_8PNx79JwPTey1loYu8hj6hoi-iQXNQ/edit)
 
 For next time:
