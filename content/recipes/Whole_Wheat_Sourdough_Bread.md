@@ -35,6 +35,7 @@ Notes:
 [Sourdough Baking Worksheet 2024-09-18](https://docs.google.com/document/d/1SVe21uZ4d-Yl_8PNx79JwPTey1loYu8hj6hoi-iQXNQ/edit)
 
 For next time:
-The tops keep coming out sort of dimpled/collapsed during initial baking with the lid. This might be due to overproofing, hitting the lid, the water I'm adding weakening things, or insufficient gluten development.
-* first try: Skip the water, see if that makes any difference. It'll be nice to remove a step.
-* then: try baking without the lid
+The tops keep coming out sort of dimpled/collapsed during initial baking with the lid. This might be due to overproofing, hitting the lid, the water I'm adding weakening things, or insufficient gluten development. Actually, it was most extreme when I used a bowl of hot water in the oven to accelerate proofing -- it looks like maybe the top proofed more than the bottom?
+* first try: don't do the accelerated proofing, or figure out a way that won't have the same stratification.
+* also try: Skip the water, see if that makes any difference. It'll be nice to remove a step.
+* also try: try baking without the lid
