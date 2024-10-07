@@ -1,6 +1,6 @@
 ---
 title: Broccoli Garlic Sauce
-tags: [needs-attention, to-try, woks-of-life]
-link: https://thewoksoflife.com/broccoli-garlic-sauce/\#recipe
+tags: [chinese, broccoli, veggie-main, dinner, to-try, woks-of-life]
+link: https://thewoksoflife.com/broccoli-garlic-sauce/#recipe
 ---
 
