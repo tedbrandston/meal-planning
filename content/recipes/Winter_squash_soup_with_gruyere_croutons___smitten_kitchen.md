@@ -1,5 +1,5 @@
 ---
-title: Winter squash soup with gruyere croutons
+title: Winter Squash Soup With Gruyere Croutons
 tags: [dinner, erin, soup, butternut-squash, winter, fall]
 link: https://smittenkitchen.com/2006/10/winter-squash-soup-gruyere-croutons/
 ---

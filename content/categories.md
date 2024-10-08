@@ -23,7 +23,9 @@ We also can break it down by seasonality, though we don't have a good way to sel
 
 When tagging, think:
 * Meal? (lunch/dinner)
-* Main or side?
+* Main or side? tag: side, veggie-side (assume main is the default)
 * Category?
 * Season?
 * Main ingredient?
+* freezes well? tag: freezer
+* cuisine

@@ -1,6 +1,6 @@
 ---
 title: Butternut Squash and Chickpea Moroccan Stew
-tags: [needs-attention]
+tags: [smitten-kitchen, stew, chickpeas, squash, butternut-squash, dinner, fall, mediterranean]
 link: https://smittenkitchen.com/2009/01/squash-and-chickpea-moroccan-stew/
 ---
 
