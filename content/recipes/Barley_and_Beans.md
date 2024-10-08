@@ -1,6 +1,6 @@
 ---
 title: Barley and Beans
-tags: [Barley, beans, quick, dinner, veggie-main, stew]
+tags: [barley, beans, quick, dinner, veggie-main, stew, smitten-kitchen]
 link: https://smittenkitchen.com/2010/01/barley-risotto-with-beans-and-greens/
 ---
 
