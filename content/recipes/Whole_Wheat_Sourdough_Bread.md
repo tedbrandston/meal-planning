@@ -6,8 +6,8 @@ link:
 520/650 \= .8; 210 lev / 2 \= 105; 520-105 \= 415, 650-105 \= 545
 
 * 545 whole wheat  
-* 415g water  
-* 4g salt  
+* 450g water  
+* 1 tsp salt  
 * 210g levain @ 100% hydration  
 * Toasted seeds from the last bread \+  
   	enough water to dampen them   
