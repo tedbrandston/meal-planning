@@ -5,7 +5,7 @@ link:
 ---
 520/650 \= .8; 210 lev / 2 \= 105; 520-105 \= 415, 650-105 \= 545
 
-* 545 whole wheat  
+* 545g whole wheat  
 * 450g water  
 * 1 tsp salt  
 * 210g levain @ 100% hydration  
@@ -34,8 +34,4 @@ Notes:
 [Sourdough Baking Worksheet 2024-09-06](https://docs.google.com/document/d/1t2MeRyD6LHo9VOI-68qZ2YykLNEHPhdqTUtNEW_aUjA/edit)  
 [Sourdough Baking Worksheet 2024-09-18](https://docs.google.com/document/d/1SVe21uZ4d-Yl_8PNx79JwPTey1loYu8hj6hoi-iQXNQ/edit)
 
-For next time:
-The tops keep coming out sort of dimpled/collapsed during initial baking with the lid. This might be due to overproofing, hitting the lid, the water I'm adding weakening things, or insufficient gluten development. Actually, it was most extreme when I used a bowl of hot water in the oven to accelerate proofing -- it looks like maybe the top proofed more than the bottom?
-* first try: don't do the accelerated proofing, or figure out a way that won't have the same stratification.
-* also try: Skip the water, see if that makes any difference. It'll be nice to remove a step.
-* also try: try baking without the lid
+Can try swapping in 1/4 white flour (160g), leaving 385g ww
