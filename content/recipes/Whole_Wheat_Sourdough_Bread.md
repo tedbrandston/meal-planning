@@ -34,5 +34,5 @@ Notes:
 [Sourdough Baking Worksheet 2024-09-06](https://docs.google.com/document/d/1t2MeRyD6LHo9VOI-68qZ2YykLNEHPhdqTUtNEW_aUjA/edit)  
 [Sourdough Baking Worksheet 2024-09-18](https://docs.google.com/document/d/1SVe21uZ4d-Yl_8PNx79JwPTey1loYu8hj6hoi-iQXNQ/edit)
 
-Can try swapping in 1/4 white flour (160g), leaving 385g ww
+Can try swapping in 1/4 white flour (160g), leaving 385g ww  
 Can try upping hydration: 190 levain(30:80:80), 450 water, 125 white, 375 ww, 15 salt?!?!
